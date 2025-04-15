@@ -42,7 +42,7 @@ map.html
                 <font color="red"><b>Chennai</b></font>
             </h1>
             <h3 align="center">
-                <font color="blue"><b>NAVINKUMAR(24901075)</b></font>
+                <font color="blue"><b>V KAILASH(212224240067)</b></font>
             </h3>
             <img src="map.png" usemap="#MyCity" class="imagecenter">
             <map name="MyCity">
